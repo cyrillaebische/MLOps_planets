@@ -1,2 +1,4 @@
 [core]
     autostage = true
+[plots]
+    auto_open = true
