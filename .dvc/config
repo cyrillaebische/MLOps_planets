@@ -2,6 +2,6 @@
     autostage = true
     remote = data
 [plots]
-    auto_open = true
+    auto_open = false
 ['remote "data"']
     url = gs://mlops-bucket-aebischer/dvcstore
